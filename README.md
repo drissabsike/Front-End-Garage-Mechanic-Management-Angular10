@@ -30,3 +30,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ##Home Page
 ![](1.png)
+
+![](1.png)
+
+![](2.png)
+
+![](3.png)
+
+##Form Add new CLient and the same for the others page
+*********************
+![](4.png)
+
